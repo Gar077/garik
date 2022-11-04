@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Hrant/js das 1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../New folder (2)"
+		},
+		{
+			"path": "../New folder (3)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Script JS"
+	}
+}
